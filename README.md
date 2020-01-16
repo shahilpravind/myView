@@ -19,7 +19,7 @@ Dependencies are included in deps folder.
   <img src="https://github.com/shahilpravind/myView/blob/master/misc/screenshot2.png" width="400" alt="Screenshot 2">
   <img src="https://github.com/shahilpravind/myView/blob/master/misc/screenshot3.png" width="400" alt="Screenshot 3">
 </p>
-<br><br>
+<br>
 
 ## License
 Apache License 2.0
