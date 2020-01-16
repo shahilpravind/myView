@@ -1,2 +1,4 @@
 # myView
-A simple, minimal image viewer written in C++ and SFML. 
+A simple photo viewer written in C++ and SFML. 
+
+## Screenshots
