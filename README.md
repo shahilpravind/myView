@@ -1,6 +1,6 @@
 # myView
 A simple photo viewer written in C++ and SFML.
-<br><br><br><br><br>
+<br>
 
 ## Dependencies
 Dependencies are included in deps folder.
