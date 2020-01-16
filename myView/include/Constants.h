@@ -6,7 +6,7 @@
 const int DEF_FONT_SIZE = 22;
 
 // Window
-const std::string WINDOW_TITLE = "Simply View";
+const std::string WINDOW_TITLE = "myView";
 const int WINDOW_WIDTH = 1024;
 const int WINDOW_HEIGHT = 768;
 
