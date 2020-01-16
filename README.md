@@ -23,4 +23,3 @@ Dependencies are included in deps folder.
 
 ## License
 Apache License 2.0
-<br><br>
