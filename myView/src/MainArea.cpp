@@ -16,7 +16,7 @@ MainArea::MainArea(float nx, float ny, float nw, float nh) {
 	leftButton->setPos(x, y);
 	leftButton->bind(&Image::imageLeft);
 
-	rightButton = new ImageButton(Shared::workingDir + "material-design-icons/arrow_left.png");
+	rightButton = new ImageButton(Shared::workingDir + "material-design-icons/arrow_right.png");
 	rightButton->setSize(ARROW_WIDTH, height);
 	rightButton->setPos(width - rightButton->getWidth(), y);
 	rightButton->bind(&Image::imageRight);
